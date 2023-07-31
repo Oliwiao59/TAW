@@ -38,7 +38,7 @@ Body: -\
 HTTP CODE: 200 OK\
 2. Pobranie wszystkich przedmiotów:\
 Metoda: GET\
-Adres zasobu: http://localhost:8080/test/courses \ 
+Adres zasobu: http://localhost:8080/test/courses \
 Nagłowki: Content-Type: application/json\
 Request body: -\
 Body:\
